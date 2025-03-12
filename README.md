@@ -13,7 +13,7 @@
 <p align="center">
  <a href="#started">Getting Started</a> • 
   <a href="#routes">API Endpoints</a> •
- <a href="#exceptions">Collaborators</a> •
+ <a href="#exceptions">Exception Handling</a>
 </p>
 
 <p align="center">
