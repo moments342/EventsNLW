@@ -13,8 +13,7 @@
 <p align="center">
  <a href="#started">Getting Started</a> • 
   <a href="#routes">API Endpoints</a> •
- <a href="#colab">Collaborators</a> •
- <a href="#contribute">Contribute</a>
+ <a href="#exceptions">Collaborators</a> •
 </p>
 
 <p align="center">
@@ -251,7 +250,7 @@ Here you can list the main routes of your API, and what are their expected reque
 }
 ```
 
-<h2 id="expections">❌ EXPECTION HANDLING</h2>
+<h2 id="exceptions">❌ EXCEPTION HANDLING</h2>
 
 **In case of a invalid prettyName:**
 
