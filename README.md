@@ -34,7 +34,7 @@
 <h3>Cloning</h3>
 
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/moments342/ManyEvents_API
 ```
 <h3 id="docker-compose"> Uploading the MySQL image</h3>
 
@@ -257,7 +257,7 @@ Here you can list the main routes of your API, and what are their expected reque
 
 ```json
 {
-    "message": "Event cool-event-3 not found"
+    "message": "Event {prettyName} not found"
 }
 ```
 
