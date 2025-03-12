@@ -33,7 +33,7 @@
 <h3>Cloning</h3>
 
 ```bash
-git clone https://github.com/moments342/ManyEvents_API
+git clone git@github.com:moments342/ManyEvents_API.git
 ```
 <h3 id="docker-compose"> Uploading the MySQL image</h3>
 
